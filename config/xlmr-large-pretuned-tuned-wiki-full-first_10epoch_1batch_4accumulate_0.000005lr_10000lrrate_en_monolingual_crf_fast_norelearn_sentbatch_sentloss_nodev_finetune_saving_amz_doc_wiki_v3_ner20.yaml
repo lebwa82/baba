@@ -50,7 +50,7 @@ ner:
       2: upos
       3: ner
     comment_symbol: '# id'
-    data_folder: /nas-alitranx/yongjiang.jy/wangxy/datasets/EN-English_conll_rank_eos_doc_full_wiki_v3
+    data_folder: ../EN-English_conll_rank_eos_doc_full_wiki_v3_test
     tag_to_bioes: ner
   Corpus: ColumnCorpus-EN-EnglishDOC
   professors:
